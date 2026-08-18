@@ -1,7 +1,7 @@
 <h1 align="center">Aarav Jain</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b>
+  
 </p>
 
 <p align="center">
@@ -38,19 +38,15 @@
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,firebase" />
 
 **Cloud & DevOps**
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,aws,vercel" />
-
-**Data & AI/ML**
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
 **Tools**
 
